@@ -1,0 +1,1 @@
+Hello to Functional Programming with Haskell, the language which loves Mathematics more than Newton.
